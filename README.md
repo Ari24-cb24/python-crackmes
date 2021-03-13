@@ -8,3 +8,9 @@ The folder name is the difficulty level of the crackme
 3: Normal  
 4: Hard  
 5: Expert  
+
+
+# note
+
+this repo is only for fun  
+If you want to contribute, just do it.
