@@ -1,0 +1,2 @@
+r=lambda s:s[::-1];p=print;rr=lambda s1,s2:s1.replace(s2,"");n=input;rrr=lambda s:r(s);rrr=lambda s1,s2,s3:s1.join(s2.split(s3));rrr=lambda s:r(s);rr=lambda s1,s2:s1.replace(s2,"");r=lambda s:s[::-1]
+k="THISISTHEFLAG,THISISTHEFLAG!!d3TrAtSgn1Tt3Gst3L";k=rr(k,r(r(rrr('!GALFEHTSISIHT,GALFEHTSISIHT'))));k=r(k);a=n("Enter correct key: ");if a.__eq__(k):p("You got the key!");else:p("Try again later, Josh!")
