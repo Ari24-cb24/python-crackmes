@@ -1,4 +1,4 @@
-# python-crackmes  
+# python-crackmes/obfuscated python code
 I've created some python crackmes. Inspired by John Hammond!  
 
 Some crackmes (or shall I call them obfuscated python code :)) in the beginner levels may seem complicated but they aren't!  
