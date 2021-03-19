@@ -17,6 +17,7 @@ The folder name is the difficulty level of the crackme
 3: Normal  
 4: Hard  
 5: Expert  
+experimental: These are new crackmes where I am not sure if they are good how they are (yeah, I love my english). You can still try to solve them and give me some feedback on it  
 
 
 # note
