@@ -1,5 +1,5 @@
 # python-crackmes/obfuscated python code
-I've created some python crackmes. Inspired by John Hammond!  
+I've created some python crackmes.  
 
 Some crackmes (or shall I call them obfuscated python code :)) in the beginner levels may seem complicated but they aren't!  
 Use a bit of your time and figure it out. They aren't that hard, trust me.  
@@ -24,3 +24,7 @@ experimental: These are new crackmes where I am not sure if they are good how th
 
 this repo is only for fun  
 If you want to contribute, just do it.
+
+# Contributors
+
+[Pep8](https://www.youtube.com/watch?v=hgI0p1zf31k)
