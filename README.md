@@ -18,7 +18,7 @@ The folder name is the difficulty level of the crackme
 - 4: Hard  
 - 5: Expert  
 - fowe: You have to find out what the program does **without** executing the program itself. Your key/flag shall be the name of the algorithm!  
-- experimental: These are new crackmes where I am not sure if they are good how they are (yeah, I love my english). You can still try to solve them and give me some feedback on it  
+- experimental: These are new crackmes where I am not sure if they are good how they are. You can still try to solve them and give me some feedback on it  
 
 
 # Note
