@@ -6,7 +6,14 @@ Use a bit of your time and figure it out. They aren't that hard, trust me.
 
 # How to solve
 
-most of them require an user input to check the key so you could run the program
+Most of them require an user input to check the key so you could run the program
+
+# Fowe
+
+Some people asked me if they could edit the code.  
+You are **allowed** to edit the code in Fowe in order to deobfuscate but you are not allowed to execute the program itself.  
+Basically you can do everything you want with the program except executing.  
+Hope that clears everything!  
 
 # Difficulties
 
